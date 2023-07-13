@@ -26,3 +26,7 @@ ___
 		return a+b;
 	}
 ```
+
+![Markdown Logo](https://markdown-here.com/img/icon256.png)
+
+> This is a blockquote
