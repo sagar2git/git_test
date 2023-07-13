@@ -17,12 +17,12 @@ _This text_ is italic
 ---
 ___
 
-[x] task 1
-[x] task 2
-[] task 3
+* [x] task 1
+* [x] task 2
+* [] task 3
 
-'''java
+```java
 	public static void add(int a, int b){
 		return a+b;
 	}
-'''
+```
