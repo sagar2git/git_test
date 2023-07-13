@@ -13,3 +13,16 @@ _This text_ is italic
 **This text** is italic
 
 ~~This text~~ is strikethrough
+
+---
+___
+
+[x] task 1
+[x] task 2
+[] task 3
+
+'''java
+	public static void add(int a, int b){
+		return a+b;
+	}
+'''
